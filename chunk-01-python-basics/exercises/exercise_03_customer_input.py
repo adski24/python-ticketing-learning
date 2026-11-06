@@ -14,3 +14,7 @@
 # If you need a number, convert it.
 
 # Write your code below:
+customer_name = input("Customer name: ")
+customer_tickets = int(input("Number of tickets: "))
+
+print("Name:", customer_name, "Tickets:", customer_tickets)
