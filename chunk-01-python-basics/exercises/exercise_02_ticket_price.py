@@ -13,3 +13,8 @@
 # 3 tickets at $35 each should give a total of $105.
 
 # Write your code below:
+ticket_price = 25
+ticket_quantity = 8
+
+total_price = ticket_price * ticket_quantity
+print(total_price)
