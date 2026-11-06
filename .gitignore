@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets and environment variables
+.env
+
+# PyCharm / JetBrains
+.idea/
+
+# macOS
+.DS_Store
+
+# Local databases that may later contain test/customer data
+*.db
+*.sqlite
+*.sqlite3
