@@ -3,4 +3,4 @@ if customer_answer.lower() == "yes":
     print("Entry allowed")
 else:
     print("Entry not allowed")
- #this is a test
+#this is a test
