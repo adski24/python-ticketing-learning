@@ -30,3 +30,21 @@
 
 
 # Start your program below:
+#initializing variables
+event_name = "Christmas Party"
+event_date = "December 12, 2026"
+
+#ask for customer details
+customer_name = input("Customer name: ")
+ticket_quantity = int(input("Ticket quantity: "))
+ticket_price = int(input("Ticket price: "))
+
+total_price = ticket_quantity * ticket_price
+
+#order
+print(f"Event name: {event_name}")
+print(f"Event date: {event_date}")
+print(f"Customer name: {customer_name}")
+print(f"Number of tickets: {ticket_quantity}")
+print(f"Ticket price: {ticket_price}")
+print(f"Total price: {total_price}")

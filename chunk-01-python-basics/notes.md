@@ -9,7 +9,7 @@ Become comfortable writing and running small Python programs while using ticketi
 ## 1. Printing
 
 ```python
-print("Summer Festival")
+print("christmas")
 ```
 
 Try changing the text and running the program again.
